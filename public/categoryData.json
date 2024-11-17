@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1001",
+    "name": "ASUS D415",
+    "image": "https://i.ibb.co.com/gDXr7BX/asus.jpg",
+    "category": "Laptops",
+    "price": 999.99,
+    "description": "High-performance laptop with a sleek design, ideal for professionals and gamers.",
+    "specification": [
+      "15.6-inch Full HD Display",
+      "Intel i7 Processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "1002",
+    "name": "DELL INSPIRON 5425U",
+    "image": "https://i.ibb.co.com/G7psXn3/del1.jpg",
+    "category": "Laptops",
+    "price": 1299.99,
+    "description": "High-performance laptop with a sleek design, ideal for professionals and gamers.",
+    "specification": [
+      "15.6-inch Full HD Display",
+      "Intel i7 Processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "1004",
+    "name": "ELL INSPIRON 5435U",
+    "image": "https://i.ibb.co.com/JRTCWtm/del2.jpg",
+    "category": "Laptops",
+    "price": 499.99,
+    "description": "High-performance laptop with a sleek design, ideal for professionals and gamers.",
+    "specification": [
+      "15.6-inch Full HD Display",
+      "Intel i7 Processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Backlit Keyboard"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": "1005",
+    "name": "HP Pavilion Plus",
+    "image": "https://i.ibb.co.com/VLswgq2/hp.jpg",
+    "category": "Laptop",
+    "price": 1599.99,
+    "description": "Ultimate gaming laptop with a powerful graphics card and fast processor for smooth gaming.",
+    "specification": [
+      "15.6-inch 4K Display",
+      "Intel i9 Processor",
+      "32GB RAM",
+      "1TB SSD",
+      "NVIDIA GeForce RTX 3080"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "1007",
+    "name": "Apple 15 pro Max",
+    "sub_name": "Iphone",
+    "image": "https://i.ibb.co.com/KwMt1WB/mcM1.jpg",
+    "category": "Phones",
+    "price": 899.99,
+    "description": "High-end smartphone with an advanced camera and vibrant display.",
+    "specification": [
+      "6.5-inch OLED Display",
+      "256GB Storage",
+      "6GB RAM",
+      "Quad Camera System",
+      "5G Enabled",
+      "Face ID"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "1008",
+    "name": "Apple MacBook Pro",
+    "sub_name": "MacBook",
+    "image": "https://i.ibb.co.com/L5CvT2g/mc.jpg",
+    "category": "Laptops",
+    "price": 1699.99,
+    "description": "Flexible laptop that converts to a tablet, with a touchscreen and stylus support.",
+    "specification": [
+      "14-inch Touchscreen Display",
+      "Intel i5 Processor",
+      "8GB RAM",
+      "256GB SSD",
+      "360-degree Hinge"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": "1010",
+    "name": "Smartphone Samsung",
+    "image": "https://i.ibb.co.com/Phth1MF/sm2.jpg",
+    "category": "Phones",
+    "price": 299.99,
+    "description": "Compact smartphone with powerful features and a high-resolution camera.",
+    "specification": [
+      "5.4-inch OLED Display",
+      "128GB Storage",
+      "Dual Camera",
+      "4G Enabled",
+      "Face ID"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": "1011",
+    "name": "Smartphone Vivo",
+    "image": "https://i.ibb.co.com/ZxPwsj2/vi.jpg",
+    "category": "Phones",
+    "price": 399.99,
+    "description": "Compact smartphone with powerful features and a high-resolution camera.",
+    "specification": [
+      "5.4-inch OLED Display",
+      "128GB Storage",
+      "Dual Camera",
+      "4G Enabled",
+      "Face ID"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": "1012",
+    "name": "Samsung Galaxy S23 Ultra",
+    "image": "https://i.ibb.co.com/GCqDHnd/sm1.jpg",
+    "category": "Phones",
+    "price": 549.99,
+    "description": "Samsung mobile phones gained quick popularity in Bangladesh for their global reputation.",
+    "specification": [
+      "6.8 inches, 114.3 cm2 (~89.5% screen-to-body ratio)",
+      "12GB RAM",
+      "512GB Storage",
+      "Weight 234g",
+      "Battery 5000mAh"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "1013",
+    "name": "Gaming Smartphone X",
+    "image": "https://i.ibb.co.com/VM9VT9y/ph3.jpg",
+    "category": "Accessories",
+    "price": 799.99,
+    "description": "The HAVIT H226D Single Jack Stereo Headphone is equipped with 40mm speakers.",
+    "specification": [
+      "Speaker size: 40mm",
+      "Frequency response: 20-20000Hz",
+      "Impedance: 32Ω",
+      "Sensitivity: 108±3dB"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "1014",
+    "name": "HAVIT H226D Single Jack Stereo Headphone",
+    "image": "https://i.ibb.co.com/BVpYN4b/ph2.jpg",
+    "category": "Accessories",
+    "price": 19.99,
+    "description": "The HAVIT H226D Single Jack Stereo Headphone is equipped with 40mm speakers.",
+    "specification": [
+      "Speaker size: 40mm",
+      "Frequency response: 20-20000Hz",
+      "Impedance: 32Ω",
+      "Sensitivity: 108±3dB"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "1015",
+    "name": "T-WOLF H150 Wired Gaming Headphone",
+    "image": "https://i.ibb.co.com/mCPQg8q/ph1.jpg",
+    "category": "Accessories",
+    "price": 33.99,
+    "description": "The T-WOLF H150 is designed for comfort, with a flexible and adjustable headphone.",
+    "specification": [
+      "Plug Type: 3.5 mm",
+      "Strong Impression with Excellent Sound Quality",
+      "90-Degree Rotation Ability",
+      "Sophisticated Design"
+    ],
+    "availability": true,
+    "rating": 4.1
+  }
+]
